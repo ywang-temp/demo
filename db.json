@@ -1,28 +1,251 @@
 {
     "items": [
-        {
-            "title": "Apple iPhone 7 - 32GB - Black - (GSM) Unlocked ",
-            "image": {
-                "_type": "Image",
-                "title": "Apple iPhone 7 - 32GB - Black - (GSM) Unlocked",
-                "URL": "https://i.ebayimg.com/thumbs/images/g/SVwAAOSwNAVeCmzr/s-l225.webp"
-            },
-            "displayPrice": {
-                "value": {
-                    "amount": 159.99,
-                    "currency": "$"
-                }
-            },
-            "previousPrice": {
-                "value": {
-                    "amount": 399.99,
-                    "currency": "$"
-                }
-            },
-            "logisticsCost": "Free shipping",
-            "brand": "Apple",
-            "color": "Black",
-            "id": "253478667538-NIL-NIL"
-        }
+      {
+        "_type": "listing",
+        "title": {
+          "_type": "TextualDisplay",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "Apple iPhone 8 64GB Factory Unlocked Verizon AT&T T-Mobile Sprint"
+            }
+          ]
+        },
+        "titleTag": {
+          "_type": "TextSpan",
+          "text": "SPONSORED"
+        },
+        "subTitle": {
+          "_type": "TextSpan",
+          "text": "2 Day Ship | Genuine | 1 Year Warranty | Free Returns"
+        },
+        "image": {
+          "_type": "Image",
+          "title": "Apple iPhone 8 64GB Factory Unlocked Verizon AT&T T-Mobile Sprint",
+          "imageId": "Yc8AAOSwJstgQBmR",
+          "imageIdType": "ZOOM_GUID",
+          "originalSize": {
+            "height": 300,
+            "width": 300
+          },
+          "URL": "https://i.ebayimg.com/thumbs/images/g/Yc8AAOSwJstgQBmR/s-l300.webp"
+        },
+        "displayPrice": {
+          "_type": "TextualDisplayValue",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "$189.00"
+            }
+          ]
+        },
+        "additionalPrice": {
+          "_type": "TextualDisplayWihToolTip",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "Was: $629.99"
+            }
+          ]
+        },
+        "itemHotness": {
+          "_type": "IconAndText",
+          "text": {
+            "_type": "TextualDisplay",
+            "textSpans": [
+              {
+                "_type": "TextSpan",
+                "text": "2,923 sold"
+              }
+            ]
+          }
+        },
+        "storage": {
+          "_type": "TextSpan",
+          "text": "64 GB"
+        },
+        "id": "274505797468-NIL-NIL",
+        "presentityId": "274505797468-NIL-NIL"
+      },
+      {
+        "_type": "listing",
+        "title": {
+          "_type": "TextualDisplay",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "Apple iPhone 8 Plus 256GB - Factory Unlocked AT&T Verizon T-Mobile"
+            }
+          ]
+        },
+        "image": {
+          "_type": "Image",
+          "title": "Apple iPhone 8 Plus 256GB - Factory Unlocked AT&T Verizon T-Mobile",
+          "imageId": "BnIAAOSw3iFeHLkU",
+          "imageIdType": "ZOOM_GUID",
+          "originalSize": {
+            "height": 300,
+            "width": 300
+          },
+          "URL": "https://i.ebayimg.com/thumbs/images/g/BnIAAOSw3iFeHLkU/s-l300.webp"
+        },
+        "displayPrice": {
+          "_type": "TextualDisplayValue",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "$264.99"
+            }
+          ]
+        },
+        "itemHotness": {
+          "_type": "IconAndText",
+          "text": {
+            "_type": "TextualDisplay",
+            "textSpans": [
+              {
+                "_type": "TextSpan",
+                "text": "227 sold"
+              }
+            ]
+          }
+        },
+        "storage": {
+          "_type": "TextSpan",
+          "text": "256 GB"
+        },
+        "id": "114711167770-NIL-NIL",
+        "presentityId": "114711167770-NIL-NIL"
+      },
+      {
+        "_type": "listing",
+        "title": {
+          "_type": "TextualDisplay",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "Apple iPhone X | 64GB 256GB | Unlocked Verizon AT&T T-Mobile Sprint | CDMA/GSM"
+            }
+          ]
+        },
+        "image": {
+          "_type": "Image",
+          "title": "Apple iPhone X | 64GB 256GB | Unlocked Verizon AT&T T-Mobile Sprint | CDMA/GSM",
+          "imageId": "VfMAAOSwDoNd2W90",
+          "imageIdType": "ZOOM_GUID",
+          "originalSize": {
+            "height": 300,
+            "width": 300
+          },
+          "URL": "https://i.ebayimg.com/thumbs/images/g/VfMAAOSwDoNd2W90/s-l300.webp"
+        },
+        "displayPrice": {
+          "_type": "TextualDisplayValue",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "$349.98"
+            }
+          ]
+        },
+        "storage": {
+          "_type": "TextSpan",
+          "text": "256 GB"
+        },
+        "id": "174105091978-NIL-NIL",
+        "presentityId": "174105091978-NIL-NIL"
+      },
+      {
+        "_type": "listing",
+        "title": {
+          "_type": "TextualDisplay",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "Apple iPhone X Unlocked Smartphone 📱 32GB Verizon T-Mobile AT&T GSM CDMA"
+            }
+          ]
+        },
+        "subTitle": {
+          "_type": "TextSpan",
+          "text": "Charger Included✅Free Ship & Returns✅60 Day Warranty"
+        },
+        "image": {
+          "_type": "Image",
+          "title": "Apple iPhone X Unlocked Smartphone 📱 64GB 256GB Verizon T-Mobile AT&T GSM CDMA",
+          "imageId": "WfgAAOSwqWtglDkF",
+          "imageIdType": "ZOOM_GUID",
+          "originalSize": {
+            "height": 300,
+            "width": 300
+          },
+          "URL": "https://i.ebayimg.com/thumbs/images/g/WfgAAOSwqWtglDkF/s-l300.webp"
+        },
+        "displayPrice": {
+          "_type": "TextualDisplayValue",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "$339.99"
+            }
+          ]
+        },
+        "itemHotness": {
+          "_type": "IconAndText",
+          "text": {
+            "_type": "TextualDisplay",
+            "textSpans": [
+              {
+                "_type": "TextSpan",
+                "text": "273 sold"
+              }
+            ]
+          }
+        },
+        "storage": {
+          "_type": "TextSpan",
+          "text": "32 GB"
+        },
+        "id": "333709835862-NIL-NIL",
+        "presentityId": "333709835862-NIL-NIL"
+      },
+      {
+        "_type": "listing",
+        "title": {
+          "_type": "TextualDisplay",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "Apple iPhone X 128GB Factory Unlocked Smartphone"
+            }
+          ]
+        },
+        "image": {
+          "_type": "Image",
+          "title": "Apple iPhone X 128GB Factory Unlocked Smartphone",
+          "imageId": "uscAAOSwcbVgWkNx",
+          "imageIdType": "ZOOM_GUID",
+          "originalSize": {
+            "height": 300,
+            "width": 300
+          },
+          "URL": "https://i.ebayimg.com/thumbs/images/g/uscAAOSwcbVgWkNx/s-l300.webp"
+        },
+        "displayPrice": {
+          "_type": "TextualDisplayValue",
+          "textSpans": [
+            {
+              "_type": "TextSpan",
+              "text": "$299.90"
+            }
+          ]
+        },
+        "storage": {
+          "_type": "TextSpan",
+          "text": "128 GB"
+        },
+        "id": "254187579586-NIL-NIL",
+        "presentityId": "254187579586-NIL-NIL"
+      }
     ]
-}
+  }

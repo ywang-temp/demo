@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "items": [
+        {
+            "title": "Apple iPhone 7 - 32GB - Black - (GSM) Unlocked ",
+            "image": {
+                "_type": "Image",
+                "title": "Apple iPhone 7 - 32GB - Black - (GSM) Unlocked",
+                "URL": "https://i.ebayimg.com/thumbs/images/g/SVwAAOSwNAVeCmzr/s-l225.webp"
+            },
+            "displayPrice": {
+                "value": {
+                    "amount": 159.99,
+                    "currency": "$"
+                }
+            },
+            "previousPrice": {
+                "value": {
+                    "amount": 399.99,
+                    "currency": "$"
+                }
+            },
+            "logisticsCost": "Free shipping",
+            "brand": "Apple",
+            "color": "Black",
+            "id": "253478667538-NIL-NIL"
+        }
+    ]
 }
